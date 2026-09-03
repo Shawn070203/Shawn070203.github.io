@@ -251,6 +251,8 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - _posts/
+  - _news/
 keep_files:
   - CNAME
   - .nojekyll
@@ -712,5 +714,3 @@ jsonresume:
   - interests
   - references
 
-exclude:
-  - _posts/
