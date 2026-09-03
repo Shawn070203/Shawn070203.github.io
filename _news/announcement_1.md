@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-5-17 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Thrilled to graduate from The Chinese University of Hong Kong, Shenzhen as an Outstanding Graduate of the School of Science and Engineering!
