@@ -252,6 +252,10 @@ exclude:
   - migrations/
   - vendor
   - _posts/
+  - _pages/blog.md
+  - _pages/news.md
+  - _pages/teaching.md
+  - _pages/repositories.md
   - _news/
 keep_files:
   - CNAME
