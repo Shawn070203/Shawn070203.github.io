@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-Thrilled to attend my first academic conference, RLC 2026, in Montreal, Canada, and give an oral presentation. It was an unforgettable experience and an exciting milestone in my research journey.
+Proud to deliver my first conference talk at RLC 2026 in Montréal, presenting our work on Gaussian-process aggregation for root-parallel MCTS！✨
 
 
 
