@@ -1,7 +1,9 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/cv_Sep18.pdf # path to your CV PDF file
+cv_pdf: 
+  value: /assets/pdf/cv_Sep18.pdf
+  logo: fa-solid fa-file-pdf
 email: junlinx@engineering.upenn.edu # your email address
 github_username: Shawn070203
 linkedin_username: junlin-xiao-169938363
