@@ -206,7 +206,7 @@ collections:
       layout: post
     output: true
   projects:
-    output: true
+    output: false
   teachings:
     output: true
 
@@ -259,6 +259,7 @@ exclude:
   - _pages/profiles.md
   - _pages/dropdown.md
   - _pages/books.md
+  - _pages/projects.md
   - _news/
 keep_files:
   - CNAME
